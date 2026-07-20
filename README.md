@@ -1,2 +1,5 @@
-# phantomui-trading-bot
-PhantomUI Sovereign Trading Bot - PumpFun Sentinel Tactical Dashboard
+# PhantomUI Trading Bot
+
+Live tactical dashboard with real Binance feeds and simulated trades.
+
+Deployed to GitHub Pages.
